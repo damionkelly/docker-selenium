@@ -1,6 +1,7 @@
 # Selenium in Docker with Chrome and Firefox
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/elgalu/docker-selenium?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+* test
 * selenium server grid with 2 nodes (chrome & firefox)
 * mkv video recording
 * VNC access (useful for debugging the container)
